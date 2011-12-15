@@ -5,3 +5,8 @@
 	-is //Indent start (applies to beautification only)
 	-il //Indent level (applices to beautifcation only)
 	-o //Output file
+
+####Current Issues####
+* No file checks
+* **Must** supply output file
+* Currently will always overwrite selected output file
